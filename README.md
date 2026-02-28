@@ -1,21 +1,6 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
 # Tenzies-game
-tenzies - динамичная и простая настольная игра на скорость. задача игрока — как можно быстрее выбросить на всех своих десяти кубиках одно и то же число.
->>>>>>> 1cf8e697c208baa3010901f77577a21e312831c5
+tenzies - динамичная настольная игра на скорость. задача игрока — как можно быстрее выбросить на всех своих десяти кубиках одно и то же число.
+
+<img width="1674" height="1203" alt="image" src="https://github.com/user-attachments/assets/ecd31401-f573-4237-986c-a507fc490718" />
+
+<img width="1041" height="988" alt="image" src="https://github.com/user-attachments/assets/31621ab9-4f0d-4ced-9a98-468722dcacf0" />
